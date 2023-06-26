@@ -28,7 +28,7 @@ git clone https://github.com/SatyaTheG/Fake_news_detector.git
 => Else you can directly run the following command to upload the required news article to determine it's authenticity.
 
 ```bash
-  python app.py
+  streamlit run app.py
 ```
 
 # NOTE:
