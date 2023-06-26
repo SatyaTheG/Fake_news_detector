@@ -5,4 +5,4 @@ nltk
 regex
 scikit-learn
 matplotlib
-pickle
+pickle5
