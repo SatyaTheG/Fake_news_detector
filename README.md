@@ -1,5 +1,7 @@
 # Fake_news_detector🕵️
-The project aims to develop a machine learning-based solution for automated news credibility detection. With the increasing volume of online activities, it becomes challenging for daily news consumers to manually read ,review and and believe each article in the internet. This project seeks to streamline and expedite the detection process by leveraging machine learning algorithms.
+The project aims to develop a machine learning-based solution for automated news credibility detection. The increasing volume of online content has led to a rise in the spread of fake news and spam, which can harm businesses and individuals by promoting fraudulent or low-quality products or services. Spam can harm the reputation of a company or product, reduce productivity, and waste resources. 
+Therefore, detecting and removing spam is critical for maintaining a healthy and efficient system. 
+This project seeks to streamline and expedite the detection process by leveraging machine learning algorithms.
 
 ## Clone Repo And use it
 * Clone resume_miner repo using below command
