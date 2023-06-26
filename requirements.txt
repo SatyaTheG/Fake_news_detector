@@ -1,0 +1,9 @@
+streamlit
+itertools
+numpy
+pandas
+nltk
+re
+scikit-learn
+matplotlib
+pickle
