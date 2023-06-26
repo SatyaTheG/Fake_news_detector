@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 nltk
-re
+regex
 scikit-learn
 matplotlib
 pickle
