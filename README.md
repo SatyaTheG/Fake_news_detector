@@ -32,4 +32,4 @@ git clone https://github.com/SatyaTheG/Fake_news_detector.git
 ```
 
 # NOTE:
-Our model is 100% due to dataset constraints. Still working on it and trying to improve it.
+Our model is not 100% accurate due to dataset constraints. Still working on it and trying to improve it.
